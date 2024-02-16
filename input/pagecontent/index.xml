@@ -27,7 +27,37 @@
     any other constraints of terminologies, questionnaires, and other components used as part of their implementation process. In some cases, 
     licensing requirements may limit the systems that data captured using certain questionnaires may be shared with.
   </p>
+    <h3>Download</h3> <a name="download"></a>
+    <p>You can also download:</p>
+    <ul>
+      <li><a href="full-ig.zip">this entire guide</a>,</li>
+      <li>the definition resources in <a href="definitions.json.zip">json</a>, <a href="definitions.xml.zip">xml</a>, <a href="definitions.ttl.zip">ttl</a>, or <a href="csvs.zip">csv</a> format, or</li>
+      <li>the example resources in <a href="examples.json.zip">json</a>, <a href="examples.xml.zip">xml</a> or <a href="examples.ttl.zip">ttl</a> format.</li>
+    </ul>
 
+  <p>The source code for this Implementation Guide can be found on <a href="https://github.com/openhie/Training-Solution-1">OpenHIE GitHub</a>.</p>
+
+  <h3>Cross Version Analysis</h3> <a name="cross-version-analysis"></a>
+  <div>
+    {% include cross-version-analysis.xhtml %}
+  </div>
+
+  <h3>Dependency Table</h3> <a name="dependency-table"></a>
+  <div>
+    {% include dependency-table.xhtml %}
+  </div>
+
+  <h3>Globals Table</h3> <a name="globals-table"></a>
+  <div>
+    {% include globals-table.xhtml %}
+  </div>
+
+  <h3>IP Statements</h3> <a name="ip-statements"></a>
+  <div>
+   {% include ip-statements.xhtml %}
+  </div>
+
+  
 	<a name="disclaimer"> </a>
 	<h3>Disclaimer</h3>
 	<p>
